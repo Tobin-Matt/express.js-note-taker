@@ -45,7 +45,8 @@ Below is a screenshot of the notes page.
 ![](./Assets/notes_page_screenshot.png)
 
 ## Project URLs
-
+* Deployed site URL: https://sleepy-savannah-64922.herokuapp.com/
+* GitHub Repo URL: https://github.com/Tobin-Matt/express.js-note-taker
 
 ## Questions
 
